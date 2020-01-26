@@ -16,3 +16,11 @@ Se recomienda crear una organización que sea la propietaria del repositorio pri
 ## Creación de Fork
 
 Para crear un fork debes iniciar sesión en GitHub y luego ingresar a la landing page del proyecto del que quieras sacar tu Frok.
+
+## Como trabajar con 2 o más remotos
+
+Listar remotos git remote -v
+
+Agregar remotos git remote add flow-git https://github.com/workflow-nacho/flow-git
+
+Eliminar remotos git remote remove flow-git
