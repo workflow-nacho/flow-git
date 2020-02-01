@@ -32,3 +32,19 @@ Es necesario entender que las etiquetas o releases como buena practica, sólo de
 
 Para entender cómo llamar o categorizar tus versiones te recomendamos un artículo en el blog de EDTeam: https://ed.team/blog/como-se-deciden-las-versiones-del-software
 
+
+# Resumen
+1. Crear una organización
+2. Crear un proyecto dentro de la organización
+3. Si el pryecto es privado agregar a todos los colaboradores
+4. Cada colaborador debe tener un Fork en su cuenta
+5. Cada desarrollador debe tener un clone en su máquina
+6. El programador debe agregar los remotos correspondientes del proyecto original
+7. Se debe asegurar que todo este correctamente sincronizado
+8. Se creará una nueva rama para agregar una funcionalidad
+9. Una vez terminado el trabajo, el desarrollador sube (push) esa rama a su fork
+10. En GitHub aparecerá la opción de hacer un pull request
+11. Una vez creado el pull request, el administrador lo revisará
+12. Se aprueba o se rechaza el pull request
+13. Cada dev debe revisar constantemente (fetc) si no hubo cambios en el proyecto original
+14. Se debe eliminar las ramas que ya fueron aprobadas/rechazadas
