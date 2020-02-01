@@ -24,3 +24,11 @@ Listar remotos git remote -v
 Agregar remotos git remote add flow-git https://github.com/workflow-nacho/flow-git
 
 Eliminar remotos git remote remove flow-git
+
+
+## Creando etiquetas
+
+Es necesario entender que las etiquetas o releases como buena practica, sólo deben ser creadas a partir de la rama master... 
+
+Para entender cómo llamar o categorizar tus versiones te recomendamos un artículo en el blog de EDTeam: https://ed.team/blog/como-se-deciden-las-versiones-del-software
+
